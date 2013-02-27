@@ -1,0 +1,3 @@
+[submodule "manual_vendor/wordnik-php"]
+	path = manual_vendor/wordnik-php
+	url = https://github.com/wordnik/wordnik-php
